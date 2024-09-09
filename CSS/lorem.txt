@@ -1,0 +1,8 @@
+productos.push(new Producto(1, 'Disco A', 950.00, './img/discoA.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));
+    productos.push(new Producto(3, 'Disco B', 800.00, './img/discoB.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));
+    productos.push(new Producto(2, 'Disco C', 950.00, './img/discoC.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));
+    productos.push(new Producto(4, 'Disco D', 1,000.00, './img/discoD.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));
+    productos.push(new Producto(5, 'Disco E', 750.00, './img/discoE.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));
+    productos.push(new Producto(6, 'Disco F', 950.00, './img/discoF.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));
+    productos.push(new Producto(7, 'Disco G', 999.00, './img/discoG.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));
+    productos.push(new Producto(8, 'Disco I', 2,000.00, './img/discoI.jpg', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. '));

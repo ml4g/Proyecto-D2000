@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "nombre": "Disco A",
+      "precio": 950.00,
+      "urlFoto": "./img/discoA.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 2,
+      "nombre": "Disco C",
+      "precio": 950.00,
+      "urlFoto": "./img/discoC.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 3,
+      "nombre": "Disco B",
+      "precio": 800.00,
+      "urlFoto": "./img/discoB.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 4,
+      "nombre": "Disco D",
+      "precio": 1000.00,
+      "urlFoto": "./img/discoD.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 5,
+      "nombre": "Disco E",
+      "precio": 750.00,
+      "urlFoto": "./img/discoE.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 6,
+      "nombre": "Disco F",
+      "precio": 950.00,
+      "urlFoto": "./img/discoF.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 7,
+      "nombre": "Disco G",
+      "precio": 999.00,
+      "urlFoto": "./img/discoG.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 8,
+      "nombre": "Disco I",
+      "precio": 2000.00,
+      "urlFoto": "./img/discoI.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    },
+    {
+      "id": 9,
+      "nombre": "Disco H",
+      "precio": 750.00,
+      "urlFoto": "./img/discoH.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum imperdiet nisi felis, et mollis massa posuere eu. Phasellus id accumsan. "
+    }
+  ]
+  
